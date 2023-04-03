@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "GraphApiSubscription": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7077",
+      "launchBrowser": false
+    }
+  }
+}
